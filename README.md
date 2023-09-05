@@ -1,8 +1,8 @@
 - 👋 Hi, I am Shahzad Barkati  @Shaz4584
-- 👀 I am interested in Web Development ( Backend / RESTful API )
-- 🌱 I am currently working as a Senior PHP Web developer ( 8+ years of experience )
-- 💞️ I am looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Interested in Web Development
+- 🌱 Currently working as a Lead developer ( 10+ years of experience )
+- 💞️ 
+- 📫 
 - 
 
 <!---
