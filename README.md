@@ -1,10 +1,13 @@
 - 👋 Hi, I am Shahzad Barkati  @Shaz4584
 - 👀 Interested in Software/Web Developments
-- 🌱 Currently working as a Lead developer (10+ years of experience)
-- 💞️ 6+ years of experience in Laravel framework (RESTFul APIs)
-- 💞️ 5+ years of experience in Codeignitor framework
+- 🌱 Currently working as a Lead developer (10+ years of experience in PHP, DB)
+- 💞️ 5+ years of experience in Laravel framework
+- 💞️ 7+ years of experience in Codeignitor framework
+- 💞️ 10+ years of experience in PHP & RESTful APIs
 - 📫 8+ years of experience in Payment gateways integrations (Strip, Paypal, GoCardless, PayFort, PayTm etc...)
 - ✨ LSM/Content Management APIs Integration (BizLibrary, Udemy, SkillSoft etc)
+- ✨ 3rd party APIs Integrations like Zoom API, MS-Teams Meeting APIs, Google meet attendance API etc)
+- ✨ Databases - MySQL, MSSQL, PostgreSQL & Optimizations
 
 - 📫
 
