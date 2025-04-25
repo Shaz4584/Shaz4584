@@ -8,7 +8,7 @@
 - ✨ LSM/Content Management APIs Integration (BizLibrary, Udemy, SkillSoft etc)
 - ✨ 3rd party APIs Integrations like Zoom API, MS-Teams Meeting APIs, Google meet attendance API etc)
 - ✨ Databases - MySQL, MSSQL, PostgreSQL & Optimizations
-- 📫 Data Analytics - Zoho Analytics (2 years) - Power BI, Python**
+- 📫 Data Analytics - Zoho Analytics (2 years) - SQL, Power BI, Python**
 
 <!---
 Shaz4584/Shaz4584 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
