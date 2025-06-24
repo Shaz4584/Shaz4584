@@ -1,4 +1,4 @@
-**- 👋 Hi, I am Shahzad Barkati  @Shaz4584
+**- 👋 Hi, I am Shahzad Barkati  @Shaz4584.
 - 👀 Interested in Software/Web Developments
 - 🌱 Lead developer (10+ years of experience in PHP, DB)
 - 💞️ 5+ years of experience in Laravel framework
